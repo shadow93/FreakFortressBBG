@@ -1,0 +1,296 @@
+"Phrases"
+{
+	"needmoreplayers"
+	{
+		"en"	"Not enough players to start Freak Fotress 2!"
+	}
+	"type_ff2_to_open_menu"
+	{
+		"en"	"Type {olive}/ff2{default} in chat to open the menu"
+	}
+	"nextmap_ff2"
+	{
+		"#format" "{1:s}"
+		"en"	"{olive}{1}{default}'s game mode will be {olive}Freak Fortress 2!{default}"
+	}
+	"wait_hp"
+	{
+		"#format" "{1:i},{2:s}"
+		"en"  "Last known hp value was {2}. Try again in {1} second(s)."
+	}
+	"damage"
+	{
+		"#format" "{1:i}"
+		"en"	"Your Damage: {1}"
+	}
+	"point_enable"
+	{
+		"#format" "{1:i}"
+		"en"  "{1} players remain! Control point unlocked!"
+	}
+	"top_3"
+	{
+		"en"	"Most damage dealt by:"
+	}
+	"damage_fx"
+	{
+		"#format" "{1:i}"
+		"en"	"You dealt {1} damage this round"
+	}
+	"scores"
+	{
+		"#format" "{1:i}"
+		"en"	"You earned {1} point(s) this round"
+	}
+	"boss_win"
+	{
+		"en"	"Congratulations!  You won!"
+	}
+	"boss_lose"
+	{
+		"en"	"Oh no, you lost!  Don't worry, there's always next time"
+	}
+	"ff2_start"
+	{
+		"#format" "{1:N},{2:s},{3:i},{4:s}"
+		"en"	"{1} became {2} with {3}{4} hp"
+	}
+	"ff2_hp"
+	{
+		"#format" "{1:s},{2:i},{3:i},{4:s}"
+		"en"	"{1}'s HP: {2}/{3}{4}"
+	}
+	"ff2_alive"
+	{
+		"#format" "{1:s},{2:N},{3:i},{4:i},{5:s}"
+		"en"	"{1} ({2}) had {3} (of {4}{5} hp) left!"
+	}
+	"select_charset"
+	{
+		"en"    "Please vote for the next map's boss pack!"
+	}
+	"your_points"
+	{
+		"#format" "{1:i}"
+		"en"    "Your queue points: {1}."
+	}
+	"add_points"
+	{
+		"#format" "{1:i}"
+		"en"    "Queue points earned: {1}."
+	}
+	"to0"
+	{
+		"en"	"Reset queue points"
+	}
+	"to0_title"
+	{
+		"en"	"Do you really want to reset your queue points?"
+	}
+	"to0_title_admin"
+	{
+		"#format" "{1:N}"
+		"en"	"Do you really want to reset {1}'s queue points?"
+	}
+	"to0_done"
+	{
+		"en"	"Queue points reset."
+	}
+	"to0_done_admin"
+	{
+		"#format" "{1:N}"
+		"en"	"{olive}{1}'s{default} queue points reset."
+	}
+	"to0_done_by_admin"
+	{
+		"#format" "{1:N}"
+		"en"	"{olive}{1}{default} reset your queue points!"
+	}
+	"to0_near"
+	{
+		"en"	"You will become the Boss soon. Type {olive}/ff2next{default} to make sure"
+	}
+	"to0_next"
+	{
+		"en"	"[FF2] You're the next boss!"
+	}
+	"to0_to0_next"
+	{
+		"en"	"Open FF2 Boss Selection"
+	}
+	"first_round"
+	{
+		"en"	"Waiting for players to finish loading. Gamemode will be arena for this round"  //Waiting for players to load and playing common arena for the first round
+	}
+	"arena_round"
+	{
+		"#format"	"{1:i}"
+		"en"		"Waiting for players to finish loading.  FF2 will start in {1} more rounds"
+	}
+	"ff2_music"
+	{
+		"#format" "{1:s}"
+		"en"	"Freak Fortress 2 Boss' music is {1} now"
+	}
+	"ff2_voice"
+	{
+		"#format" "{1:s}"
+		"en"	"FF2 monologues: {1}."
+	}
+	"ff2_voice2"
+	{
+		"en"	"Other sounds will be playing, but very quietly."
+	}
+	"menu_8"
+	{
+		"en"	"Toggle music (/ff2music)"
+	}
+	"menu_9"
+	{
+		"en"	"Toggle monologues (/ff2voice)"
+	}
+	"menu_9a"
+	{
+		"en"	"Toggle class-change info"
+	}
+	"track_info"
+	{
+		"#format" "{1:s},{2:s}"
+		"en"	"Now Playing: {1} - {2}"
+	}
+	"ff2_cpt_overtime"
+	{
+		"en"	"OVERTIME!"
+	}
+	"ff2_cpt_value"
+	{
+		"#format" "{1:i}"
+		"en"	"OVERTIME! {1} percent!"
+	}
+	"overtime_percentage"
+	{
+		"#format" "{1:i}"
+		"en"	"{1} percent!"	
+	}
+	"ff2_next_boss"
+	{
+		"#format" "{1:s}"
+		"en"	"{1} will become the boss next round!"
+	}
+	"FF2 Class Info"
+	{
+		"#format" "{1:s}"
+		"en"	"Toggle class-specific info: {1}"
+	}
+	"FF2 Updates"
+	{
+		"#format" "{1:s},{2:s}"
+		"en"	"What's new in v{olive}{1}{default} ({olive}{2}{default})? Type {olive}/ff2new{default}."
+	}
+	"Next Map Character Set"
+	{
+		"#format" "{1:s},{2:s}"
+		"en"	"{1}'s Charset is: {2}."
+	}
+	"Lost Life"
+	{
+		"#format" "{1:s},{2:i}"
+		"en"	"{1} lost a life! {2} remain!"
+	}
+	"Last Life"
+	{
+		"#format" "{1:s}"
+		"en"	"{1} is on their last life!"
+	}
+	"Boss Suicide Denied"
+	{
+		"en"	"You cannot suicide as a boss!"
+	}
+	"Boss Suicide Pre-round"
+	{
+		"en"	"You cannot suicide before the round starts!"
+	}
+	"Backstab"
+	{
+		"#format" "{1:s}"
+		"en"	"You backstabbed {1}!"
+	}
+	"Backstabbed"
+	{
+		"#format" "{1:N}"
+		"en"	"{1} backstabbed you!"
+	}
+	"Market Gardener"
+	{
+		"#format" "{1:s}"
+		"en"	"You market-gardened {1}!"
+	}
+	"Market Gardened"
+	{
+		"#format" "{1:N}"
+		"en"	"{1} market-gardened you!"
+	}
+	"Player Goomba Stomps"
+	{
+		"#format" "{1:s},{2:i}"	
+		"en"	"You goomba stomped {1} {2} times!"
+	}
+	"Goomba Stomped Player"
+	{
+		"#format" "{1:s}"		
+		"en"	"Ouch! {1} goomba stomped you! Watch your head!"
+	}
+	"Boss Goomba Stomps"
+	{
+		"#format" "{1:N}"
+		"en"	"You goomba stomped {1}!"
+	}
+	"Goomba Stomped Boss"
+	{
+		"#format" "{1:N},{2:i}"		
+		"en"	"{1} goomba stomped you {2} time(s)!"
+	}
+	"Ullapool Caber"
+	{
+		"#format" "{1:s}"
+		"en"	"You bombed {1}!"
+	}
+	"Ullapool Cabered"
+	{
+		"#format" "{1:N}"		
+		"en"	"{1} bombed you!"
+	}
+	"Detonations Left"
+	{
+		"#format"	"{1:i}"
+		"en"		"Detonations left: {1}"
+	}
+	"Replace Disconnected Boss"
+ 	{
+		"#format" "{1:N},{2:N}"
+ 		"en"	"{1} just disconnected, and {2} is now the new boss!"
+ 	} 
+	"Replace Disconnected Boss 2"
+	{
+		"en"	"Surprise! You're the boss NOW!"
+	}
+	"Telefragged"
+	{
+		"#format"	"{1:N}"
+		"en"	"{1} TELEFRAGGED you!"
+	}
+	"Telefrag"
+	{
+		"#format"	"{1:s}"
+		"en"	"You TELEFRAGGED {1}!"
+	}
+	"Telefrag Assist"
+	{
+		"#format"	"{1:N},{2:s}"
+		"en"	"TELEFRAG ASSIST! {1} TELEFRAGGED {2}!"
+	}
+	"Civilian Check Failed"
+	{
+		"en"	"Respawning you because you have no weapons!"
+	}
+}

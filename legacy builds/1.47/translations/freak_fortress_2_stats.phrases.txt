@@ -1,0 +1,23 @@
+"Phrases"
+{
+	"boss_stats"
+	{	
+		"#format" "{1:N},{2:d},{3:d}"
+		"en"	"{ORANGE}{1}{DEFAULT} has a total of {GREEN}{2} wins {DEFAULT}and {RED}{3} losses{DEFAULT}!"
+	}
+	"player_stats"
+	{
+		"#format"	"{1:d},{2:d},{3:d},{4:N},{5:d},{6:d},{7:d}"
+		"en"		"You - Damage:{1} | Bosses Slain: {2} | MVP's: {3}\n{4} - Damage:{5} | Bosses Slain: {6} | MVP's: {7}"
+	}
+	"stats_hud_text"
+	{
+		"#format"	"{1:N},{2:d},{3:d},{4:d},{5:d}"
+		"en"		"{1} - Wins: {2} | Losses: {3} | Kills: {4} | Deaths: {5}"
+	}
+	"your_stats"
+	{
+		"#format"	"{1:d},{2:d},{3:d}"
+		"en"		"Damage: {1} | Bosses Slain: {2} | MVP's: {3}"
+	}
+}
