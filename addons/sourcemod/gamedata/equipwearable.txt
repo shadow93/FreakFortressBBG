@@ -1,0 +1,27 @@
+"Games"
+{
+    "tf"
+    {
+        "Offsets"
+        {
+            "EquipWearable"
+            {
+                "windows""426"
+                "linux""427"
+                "mac""427"
+            }
+            "RemoveWearable"
+            {
+                "windows""427"
+                "linux""428"
+                "mac""428"
+            }
+            "IsWearable"
+            {
+                "windows"	"87"
+                "linux"		"88"
+                "mac"		"88"
+            }
+        }
+    }
+}
